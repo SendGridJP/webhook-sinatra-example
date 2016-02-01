@@ -1,0 +1,8 @@
+{
+  "name": "webhook-sinatra-example",
+  "description": "SendGrid webhook example for sinatra",
+  "addons": [
+  ],
+  "env": {
+  }
+}
